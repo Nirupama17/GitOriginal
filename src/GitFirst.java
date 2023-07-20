@@ -5,6 +5,8 @@ public class GitFirst {
 		// TODO Auto-generated method stub
 		System.out.println("This is first line");
 		System.out.println("This is second line");
+		System.out.println("This is third line");
+		System.out.println("This is fourth line");
 	}
 
 }
